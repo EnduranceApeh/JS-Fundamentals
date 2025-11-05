@@ -1,3 +1,4 @@
+#!/usr/bin/node
 // A script that pint out the value of an Array.
 
 const stringArr = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
