@@ -2,8 +2,6 @@
 
 const stringArr = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 
-let i = 0;
-while(i < stringArr.length) {
+for(let i = 0; i < stringArr.length; i++) {
 	console.log(stringArr[i])
-	i++;
 }
